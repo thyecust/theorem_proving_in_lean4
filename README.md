@@ -1,6 +1,6 @@
 Chinese Translation 中文翻译:
 
-- [ ] [引论 Introduction](./introduction_zh.md)
+- [x] [引论 Introduction](./introduction_zh.md)
 - [ ] [依值类型论 Dependent Type Theory](./dependent_type_theory_zh.md)
 - [ ] [命题和证明 Propositions and Proofs](./propositions_and_proofs_zh.md)
 - [ ] [量词和相等 Quantifiers and Equality](./quantifiers_and_equality_zh.md)
