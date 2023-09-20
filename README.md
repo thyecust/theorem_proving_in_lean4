@@ -1,3 +1,18 @@
+Chinese Translation 中文翻译:
+
+- [ ] [引论 Introduction](./introduction_zh.md)
+- [ ] [依值类型论 Dependent Type Theory](./dependent_type_theory_zh.md)
+- [ ] [命题和证明 Propositions and Proofs](./propositions_and_proofs_zh.md)
+- [ ] [量词和相等 Quantifiers and Equality](./quantifiers_and_equality_zh.md)
+- [ ] [Tactics](./tactics_zh.md)
+- [ ] [与Lean交互 Interacting with Lean](./interacting_with_lean_zh.md)
+- [ ] [归纳类型 Inductive Types](./inductive_types_zh.md)
+- [ ] [归纳与递归 Induction and Recursion](./induction_and_recursion_zh.md)
+- [ ] [结构与记录 Structures and Records](./structures_and_records_zh.md)
+- [ ] [类型类 Type Classes](./type_classes_zh.md)
+- [ ] [The Conversion Tactic Mode](./conv_zh.md)
+- [ ] [公理与计算 Axioms and Computation](./axioms_and_computation_zh.md)
+
 Theorem Proving in Lean 4
 -----------------------
 
